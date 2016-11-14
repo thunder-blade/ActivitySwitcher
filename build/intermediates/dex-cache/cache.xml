@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Dell\AndroidStudioProjects\ActivitySwitcher\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Dell\AndroidStudioProjects\ActivitySwitcher\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_db7bdd209f71fe2019d269d41d4e789f4570f0bc.jar" />
+    </item>
+
+</items>
